@@ -71,7 +71,7 @@ Make feedback,
 
 ## Software design
 
-For the patient
+- For the patient
 
 The patient should add some important information to register for the system. Then the patient can login to the system by using the entered email address and the password 
 
@@ -86,13 +86,13 @@ After login to the system patient can search for the doctors, make an appointmen
 
 
 
-For the Administrator
+- For the Administrator
 
 Administer can add doctors, view doctors and patients, view appointments and view feedback.
 ![Image 20](https://user-images.githubusercontent.com/67429062/139881778-8dbec1b8-da17-41ad-8874-f8411f6bccb7.png)
 ![Image 24](https://user-images.githubusercontent.com/67429062/139881624-dbb3c0a2-5ac3-4de3-a668-de7c0acfae4f.png)
 
-For doctors
+- For doctors
 
 After registering for the system, doctors can view his/her appointment details, patient details and can edit their profiles.
 
@@ -110,7 +110,7 @@ Login Information System
 
 This system will maintain the login information of its user to enter in the software
 
- -Validation
+ - Validation
  
 Administrators need to login using the unique id and password
 
@@ -122,15 +122,14 @@ Email address should be in the proper format
 
 Login information should be filled in before the user allowed
 
--Error handling
+- Error handling
  
 If the user doesn’t fill up validated information then the system displays an error message for the user and request to enter the validation information.
-
 
 Performance required
 
 - Security
-- 
+
 The system should be Protected from unauthorized access Where the valid Username and Password are required so no other can access it. 
 The system is tested according to the above features.
 
