@@ -109,7 +109,9 @@ For the testing, we generate a set of data,  which can be used to test the new s
 Login Information System 
 
 This system will maintain the login information of its user to enter in the software
- - Validation
+
+ -Validation
+ 
 Administrators need to login using the unique id and password
 
 Contact number should have 10 digits
@@ -120,8 +122,8 @@ Email address should be in the proper format
 
 Login information should be filled in before the user allowed
 
-- Error handling
- - 
+-Error handling
+ 
 If the user doesn’t fill up validated information then the system displays an error message for the user and request to enter the validation information.
 
 
@@ -165,6 +167,14 @@ PHP code may be embedded into HTML code, or it can be used in combination with v
 Bootstrap is a free and open-source front-end framework for designing websites and web applications. It contains HTML- and CSS-based design templates for typography, forms, buttons, navigation, and other 6 interface components, as well as optional JavaScript extensions. Unlike many web frameworks, it concerns itself with front-end development only.
 
 - VS code
+
+## References
+1. Online Doctor Appointment System - https://www.academia.edu/26066176/Design_and_Development_of_Online_Doctor_Appointment_System
+
+2. https://www.freeprojectz.com/uml-diagram/doctor-appointment-system-uml-diagram
+
+3. https://onix-systems.com/blog/how-to-develop-a-doctor-appointment-booking-system
+
 
 
 
