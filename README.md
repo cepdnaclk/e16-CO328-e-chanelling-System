@@ -29,40 +29,40 @@ It is not only doctors who have to share information about themselves. Patient p
 
 ### UML Activity Diagram
 This E- Channeling  system involved three actors,
+
 Doctor
+
 Administrator
+
 Patient
+
 Use cases for the Actors are as follows
-Doctor
-Create Appointment
-Check Patient Details
-Add description
+
+Doctor - 
+Create Appointment,
+Check Patient Details.
+Add description,
 View his/her profile
 
-Administrator
-Manage doctors
-Manage Patients
-Manage Appointment
+Administrator - 
+Manage doctors,
+Manage Patients,
+Manage Appointment,
 View feedbacks
 
-Patient
-Check Doctors
-View profile
-Check Appointment
-Make feedback
+Patient - 
+Check Doctors,
+View profile,
+Check Appointment,
+Make feedback,
 
 
 ![](https://user-images.githubusercontent.com/67429062/139879107-aa34cb64-72ab-420f-bdfd-80efb4b6042f.png)
 
+### Flow Chart
 
-
-
-
-
-
-
-
-3.5 Flow Chart
+![](https://user-images.githubusercontent.com/67429062/139879514-0c5c6fc2-1a9c-4a3f-aa55-0d8f595c4510.png)
+![](https://user-images.githubusercontent.com/67429062/139879544-ba8677d2-2105-474b-a7c3-35ed71302eba.png)
 
 
 
