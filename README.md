@@ -2,7 +2,8 @@ ___
 # E-Channeling System
 ___
 
-![](https://www.techringe.com/wp-content/uploads/2019/08/Doctor1.png)
+![img_Doctor-Appointment-App-1024x768-min-1024x768](https://user-images.githubusercontent.com/67429062/139904713-9466b212-311c-43da-822f-7c000aa4cc3b.jpg)
+
 
 ## Group 13
 E/16/127 - Yoshith Harshana
