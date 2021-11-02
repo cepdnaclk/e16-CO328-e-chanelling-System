@@ -65,16 +65,55 @@ Make feedback,
 ![](https://user-images.githubusercontent.com/67429062/139879544-ba8677d2-2105-474b-a7c3-35ed71302eba.png)
 
 
+### ER  Diagram 
 
-Figure 03 - flow chart part1
+![](https://user-images.githubusercontent.com/67429062/139880347-e2784de8-670f-4ec3-8fec-72557bf3d0f5.png)
+
+## Software design
+
+For the patient
+
+The patient should add some important information to register for the system. Then the patient can login to the system by using the entered email address and the password 
+
+
+![patient-registration](https://user-images.githubusercontent.com/67429062/139880634-c7a79ec6-bd7b-4f1d-88c6-5b2dfa417a8d.png)
+
+![patient-login](https://user-images.githubusercontent.com/67429062/139880750-81c191d0-b514-4ddb-bc29-6824ff3d090f.png)
+![Change Password](https://user-images.githubusercontent.com/67429062/139880855-97ff3b41-d589-45ce-81fc-33a96669eaa1.png)
+
+
+
+Figure 07
+After login to the system patient can search for the doctors, make an appointment, and can add feedback.
+For the Administrator
+Administer can add doctors, view doctors and patients, view appointments and view feedback.
+
+Figure 08
+For doctors
+After registering for the system doctors can view his/her appointment details, patient details and can edit their profiles.
+
+
+Figure 09
 
 
 
 
 
 
-Figure 04 - flow chart part2
-3.6 ER  Diagram
+Figure 10
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
