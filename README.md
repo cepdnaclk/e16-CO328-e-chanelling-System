@@ -1,7 +1,10 @@
 ___
-# DELETE THIS INSTRUCTIONS AND ADD A SHORT INTRODUCTION ABOUT YOUR PROJECT
+# E-Channeling System
 ___
 
-## Please refer the instructions in below URL:
+## Group 13
+E/16/127 - Yoshith Harshana
+E/16/039 - Nimashi Uthpala
+E/16/087 - Sachini Dissanayaka
 
-https://projects.ce.pdn.ac.lk/docs/how-to-add-a-project
+
