@@ -75,6 +75,7 @@ For the patient
 
 The patient should add some important information to register for the system. Then the patient can login to the system by using the entered email address and the password 
 
+After login to the system patient can search for the doctors, make an appointment, and can add feedback.
 
 ![patient-registration](https://user-images.githubusercontent.com/67429062/139880634-c7a79ec6-bd7b-4f1d-88c6-5b2dfa417a8d.png)
 
@@ -83,24 +84,90 @@ The patient should add some important information to register for the system. Th
 
 
 
-Figure 07
-After login to the system patient can search for the doctors, make an appointment, and can add feedback.
+
+
 For the Administrator
+
 Administer can add doctors, view doctors and patients, view appointments and view feedback.
+![Image 20](https://user-images.githubusercontent.com/67429062/139881778-8dbec1b8-da17-41ad-8874-f8411f6bccb7.png)
+![Image 24](https://user-images.githubusercontent.com/67429062/139881624-dbb3c0a2-5ac3-4de3-a668-de7c0acfae4f.png)
 
-Figure 08
 For doctors
-After registering for the system doctors can view his/her appointment details, patient details and can edit their profiles.
 
-
-Figure 09
-
+After registering for the system, doctors can view his/her appointment details, patient details and can edit their profiles.
 
 
 
+![Image 18](https://user-images.githubusercontent.com/67429062/139882358-1f42bab6-242a-4aa8-8405-44623aa67193.png)
+
+![Image 17](https://user-images.githubusercontent.com/67429062/139882435-a59a0923-90ba-4033-9d7f-074ebf66b737.png)
 
 
-Figure 10
+## Testing
+For the testing, we generate a set of data,  which can be used to test the new system before accepting it. In the test generation phase, all the parts come which are to be tested to ensure that system does not produce any error. If there are some errors then we remove them and further it goes for accepting.
+
+Login Information System 
+
+This system will maintain the login information of its user to enter in the software
+ - Validation
+Administrators need to login using the unique id and password
+
+Contact number should have 10 digits
+
+All the details must be filled up
+
+Email address should be in the proper format
+
+Login information should be filled in before the user allowed
+
+- Error handling
+ - 
+If the user doesn’t fill up validated information then the system displays an error message for the user and request to enter the validation information.
+
+
+Performance required
+
+- Security
+- 
+The system should be Protected from unauthorized access Where the valid Username and Password are required so no other can access it. 
+The system is tested according to the above features.
+
+## Used Technologies
+
+- HTML
+
+MySQL Workbench is a unified visual tool for database architects, developers, and DBAs. MySQL Workbench provides data modeling, SQL development, and comprehensive administration tools for server configuration, user administration, backup, and much more. MySQL Workbench is available on Windows, Linux, and Mac OS X.
+
+- CSS
+
+Cascading Style Sheets (CSS) is a style sheet language used for describing the presentation of a document written in a markup language like HTML. CSS is a cornerstone technology of the World Wide Web, alongside HTML and JavaScript. CSS is designed to enable the separation of presentation and content, including layout, colors, and fonts. This separation can improve content accessibility, provide more flexibility and control in the specification of presentation characteristics, enable multiple web pages to share formatting by specifying the relevant CSS in a separate CSS file and reduce complexity and repetition in the structural content.
+
+- Java Script
+
+JavaScript often abbreviated as JS, is a high-level, interpreted programming language. It is a language that is also characterized as dynamic, weakly typed, prototype-based, and multi-paradigm. Alongside HTML and CSS, JavaScript is one of the three core technologies of the World Wide Web. JavaScript enables interactive web pages and thus is an essential part of web applications. The vast majority of websites use it, and all major web browsers have a dedicated JavaScript engine to execute it.
+
+- Mysql
+
+MySQL Workbench is a unified visual tool for database architects, developers, and DBAs. MySQL Workbench provides data modeling, SQL development, and comprehensive administration tools for server configuration, user administration, backup, and much more. MySQL Workbench is available on Windows, Linux, and Mac OS X.
+
+- Xampp
+
+XAMPP is a free and open-source cross-platform web server solution stack package developed by Apache Friends, consisting mainly of the Apache HTTP Server, MariaDB database, and interpreters for scripts written in the PHP and Perl programming languages. XAMPP stands for Cross-Platform (X), Apache (A), MariaDB (M), PHP (P), and Perl (P). It is a simple, lightweight Apache distribution that makes it extremely easy for developers to create a local web server for testing and deployment purposes. Everything needed to set up a web server – server application (Apache), database (MariaDB), and scripting language (PHP) – is included in an extractable file. XAMPP is also cross-platform, which means it works equally well on Linux, Mac, and Windows. Since most actual web server deployments use the same components as XAMPP, it makes transitioning from a local test server to a live server extremely easy as well.
+
+- Php
+
+Hypertext Preprocessor (or simply PHP) is a server-side scripting language designed for Web development but also used as a general-purpose programming language. It was originally created by Rasmus Lerdorf in 1994,] the PHP reference implementation is now produced by The PHP Group. PHP originally stood for Personal Home Page, ] but it now stands for the recursive acronym PHP: Hypertext Preprocessor. 
+
+PHP code may be embedded into HTML code, or it can be used in combination with various web template systems, web content management systems, and web frameworks. PHP code is usually processed by a PHP interpreter implemented as a module in the web server or as a Common Gateway Interface (CGI) executable. The web server combines the results of the interpreted and executed PHP code, which may be any type of data, including images, with the generated web page. PHP code may also be executed with a command-line interface (CLI) and can be used to implement standalone graphical applications. 
+
+- Boostrap
+
+Bootstrap is a free and open-source front-end framework for designing websites and web applications. It contains HTML- and CSS-based design templates for typography, forms, buttons, navigation, and other 6 interface components, as well as optional JavaScript extensions. Unlike many web frameworks, it concerns itself with front-end development only.
+
+- VS code
+
+
+
 
 
 
